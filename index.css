@@ -1,0 +1,13 @@
+button {
+    background-color: blue;
+    font-size: 26px;
+    width: 20%;
+    margin: 16px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
